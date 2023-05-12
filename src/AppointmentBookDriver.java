@@ -11,13 +11,15 @@ public class AppointmentBookDriver
 
     private static void PartA()
     {
-        // TODO Auto-generated method stub
+        // TODO: Finish part A
+        System.out.println("Part A");
         
     }
 
     private static void PartB()
     {
-        // TODO Auto-generated method stub
+        // TODO: Finish part B
+        System.out.println("Part B");
         
     }
 
