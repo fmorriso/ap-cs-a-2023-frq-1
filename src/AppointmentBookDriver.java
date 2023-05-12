@@ -12,14 +12,14 @@ public class AppointmentBookDriver
     private static void PartA()
     {
         // TODO: Finish part A
-        System.out.println("Part A");
+        System.out.println("TODO: finish Part A");
         
     }
 
     private static void PartB()
     {
         // TODO: Finish part B
-        System.out.println("Part B");
+        System.out.println("TODO: finish Part B");
         
     }
 
